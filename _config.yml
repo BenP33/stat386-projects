@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thoughts of a Statistics Majors # Make a title for your blog
+title: Thoughts of a Statistics Major # Make a title for your blog
 email: benjamin_porter@byu.edu # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
  Musings of a statistics student nearing graduation.
